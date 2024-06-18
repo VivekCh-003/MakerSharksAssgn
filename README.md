@@ -1,7 +1,5 @@
 # MakerSharksAssgn
 
-# MakerSharksAssgn
-
 ## Introduction
 This project is a simple Spring Boot application that provides RESTful API endpoints for user registration and user details fetching. The application uses MongoDB for storing user data.
 
