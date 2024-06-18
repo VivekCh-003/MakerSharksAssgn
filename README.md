@@ -12,7 +12,7 @@ This project is a simple Spring Boot application that provides RESTful API endpo
 
 Application runs on port 8081
 
-To pull the Docker image run : docker pull vivek31/makersharks:latest
+To pull the Docker image run : docker pull vivek31/makersharks:latest  
 To run the image : docker run -p 8081:8081 vivek31/makersharks:latest
 
 After starting the application, it can be accessed at Swagger endpoint : http://localhost:8081/swagger-ui/index.html
