@@ -13,7 +13,7 @@ Application runs on port 8081
 To pull the Docker image run : docker pull vivek31/makersharks:latest  
 To run the image : docker run -p 8081:8081 vivek31/makersharks:latest
 
-After starting the application, it can be accessed at Swagger endpoint : http://localhost:8081/swagger-ui/index.html
+After starting the application, it can be accessed at Swagger : http://localhost:8081/swagger-ui/index.html
 
 
 API Endpoints
